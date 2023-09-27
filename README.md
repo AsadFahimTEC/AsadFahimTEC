@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadfahimtec&label=Profile%20views&color=0e75b6&style=flat" alt="asadfahimtec" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS**
 
