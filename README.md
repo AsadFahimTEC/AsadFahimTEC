@@ -1,4 +1,4 @@
-![Web Design and Development](https://i.ibb.co/NFzb21S/Yellow-Gray-Modern-Profile-Linkedin-Banner.png) 
+![Web Design and Development](images/Yellow-Gray-Modern-Profile-Linkedin-Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Md. Asaduzzaman</h1>
