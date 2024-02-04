@@ -1,10 +1,10 @@
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnRp8_utdzy3QJkukaW-mzhEI7zdKHLmlWQ&usqp=CAU](https://i.ibb.co/NFzb21S/Yellow-Gray-Modern-Profile-Linkedin-Banner.png)">
+<img src="https://i.ibb.co/NFzb21S/Yellow-Gray-Modern-Profile-Linkedin-Banner.png">
 
 
 <h1 align="center">Hi 👋, I'm Md. Asaduzzaman</h1>
 <h3 align="center">A passionate Jr. Web developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif]">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadfahimtec&label=Profile%20views&color=0e75b6&style=flat" alt="asadfahimtec" /> </p>
 
